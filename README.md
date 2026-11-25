@@ -7,7 +7,7 @@ Add this URL as a source in Morphe Manager: https://github.com/heltonricardo/mor
 
 ## Building locally
 
-Run `./gradlew buildAndroid`. The bundle is `patches/build/libs/patches-*.mpp`.
+Run `./gradlew :patches:buildAndroid`. The bundle is `patches/build/libs/patches-*.mpp`.
 
 ## License
 
