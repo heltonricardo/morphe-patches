@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-11-25T19:46:37",
-  "description": "## 1.0.0-dev.1 (2026-11-25)\n\n### ✨ New Features\n\n* **waze:** hide street labels ([d16ae0e](https://github.com/heltonricardo/morphe-patches/commit/d16ae0ef4808692313a1c6dc7ea610ab8d8f7f07))",
-  "download_url": "https://github.com/heltonricardo/morphe-patches/releases/download/v1.0.0-dev.1/patches-1.0.0-dev.1.mpp",
+  "created_at": "2026-11-25T23:16:35",
+  "description": "## 1.0.0 (2026-11-25)\n\n### ✨ New Features\n\n* **waze:** hide street labels ([d16ae0e](https://github.com/heltonricardo/morphe-patches/commit/d16ae0ef4808692313a1c6dc7ea610ab8d8f7f07))",
+  "download_url": "https://github.com/heltonricardo/morphe-patches/releases/download/v1.0.0/patches-1.0.0.mpp",
   "signature_download_url": "",
-  "version": "1.0.0-dev.1"
+  "version": "1.0.0"
 }
