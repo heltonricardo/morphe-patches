@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/heltonricardo/morphe-patches/compare/v1.0.0...v1.0.1) (2026-11-26)
+
+### 🐛 Bug Fixes
+
+* **waze:** hide route balloons by forcing show_routing_labels off ([3789849](https://github.com/heltonricardo/morphe-patches/commit/37898495ed92539cf4db247e019b697d3efc4875))
+
 ## [1.0.1-dev.1](https://github.com/heltonricardo/morphe-patches/compare/v1.0.0...v1.0.1-dev.1) (2026-11-26)
 
 ### 🐛 Bug Fixes
