@@ -3,7 +3,7 @@ group = "app.morphe"
 patches {
     about {
         name = "heltonricardo patches"
-        description = "Patches for apps I use. Waze: hide street name labels."
+        description = "Patches for apps I use. Waze: hide route street name balloons."
         source = "git@github.com:heltonricardo/morphe-patches.git"
         author = "heltonricardo"
         contact = "https://github.com/heltonricardo"

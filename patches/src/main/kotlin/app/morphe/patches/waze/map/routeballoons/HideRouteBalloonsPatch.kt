@@ -1,13 +1,13 @@
-package app.morphe.patches.waze.map.streetlabels
+package app.morphe.patches.waze.map.routeballoons
 
 import app.morphe.patcher.extensions.InstructionExtensions.addInstructions
 import app.morphe.patcher.patch.bytecodePatch
 import app.morphe.patches.waze.shared.Constants.COMPATIBILITY_WAZE
 
 @Suppress("unused")
-val hideStreetLabelsPatch = bytecodePatch(
-    name = "Hide street labels",
-    description = "Removes the street name balloons from the Waze map.",
+val hideRouteBalloonsPatch = bytecodePatch(
+    name = "Hide route balloons",
+    description = "Removes the street name balloons shown along the route on the Waze map.",
 ) {
     compatibleWith(COMPATIBILITY_WAZE)
 
