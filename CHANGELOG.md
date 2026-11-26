@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/heltonricardo/morphe-patches/compare/v1.0.1...v1.0.2) (2026-11-26)
+
+### 🐛 Bug Fixes
+
+* **waze:** rename patch to Hide route balloons and limit support to tested version ([9ebf5ee](https://github.com/heltonricardo/morphe-patches/commit/9ebf5ee0d9204564a844a6d1180997957072e983))
+
 ## [1.0.2-dev.1](https://github.com/heltonricardo/morphe-patches/compare/v1.0.1...v1.0.2-dev.1) (2026-11-26)
 
 ### 🐛 Bug Fixes
